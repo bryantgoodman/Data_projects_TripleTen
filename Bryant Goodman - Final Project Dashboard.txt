@@ -1,0 +1,7 @@
+﻿View Tableau Project Dashboard here:
+
+
+https://public.tableau.com/views/BIAFinalProject-BryantGoodman/RestaurantDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+Please view the dashboard in full screen to get a better view of all the charts. The dashboard can be filtered on the right by Average Sales $ or Total Sales $.
